@@ -1,0 +1,2 @@
+# jsredirector
+Javascript redirection app
